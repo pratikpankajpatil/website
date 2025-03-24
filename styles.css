@@ -49,3 +49,23 @@ section p a {
 section p a:hover {
     background: #0056b3;
 }
+
+.social {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    background: #007bff;
+    border-radius: 5px;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+.social i {
+    margin-right: 8px;
+}
+
+.social:hover {
+    background: #0056b3;
+}
